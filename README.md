@@ -7,7 +7,8 @@ Exam 1:
 
 
 Exam 2:
-- I'm sorry haven't finished exam 2 yet, if possible to follow.
+- I uploaded exam number 2 on google drive. I have a problem uploading the file here on github
+- Here's the google drive link for exam number 2: https://drive.google.com/drive/folders/122vg4O0hPZJJgvtPxjgp3lyur83KnyK7?usp=sharing
 
 Exam 3:
 - recursive.rar will run in the htdocs 
